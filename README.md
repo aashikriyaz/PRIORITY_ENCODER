@@ -28,7 +28,8 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 # OUTPUT:
-![Uploading 326366595-82742326-17a8-4c8f-90e6-002c16165399.png…]()
+
+![326366595-82742326-17a8-4c8f-90e6-002c16165399](https://github.com/aashikriyaz/PRIORITY_ENCODER/assets/165645036/cb7b4bfc-94dd-425e-b158-cdc894fc37d1)
 
 # RESULT:
 Priority Encoder is designed and simulated using vivado.
